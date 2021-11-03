@@ -46,27 +46,28 @@ body {
   .image-slider {
     width: 1200px;
     height: 500px;
-    cursor: none !important;
 
-    &:hover {
-      cursor: none;
-    }
+    // cursor: none !important;
 
-    .carousel.carousel-slider .control-arrow {
-      width: 50vw;
-      cursor: none !important;
-    }
+    // &:hover {
+    //   cursor: none;
+    // }
 
-    .carousel.carousel-slider .control-arrow:hover {
-      background: unset;
-      cursor: none !important;
-    }
+    // .carousel.carousel-slider .control-arrow {
+    //   width: 50vw;
+    //   cursor: none !important;
+    // }
 
-    .carousel .control-arrow:before,
-    .carousel.carousel-slider .control-arrow:before {
-      display: none;
-      cursor: none !important;
-    }
+    // .carousel.carousel-slider .control-arrow:hover {
+    //   background: unset;
+    //   cursor: none !important;
+    // }
+
+    // .carousel .control-arrow:before,
+    // .carousel.carousel-slider .control-arrow:before {
+    //   display: none;
+    //   cursor: none !important;
+    // }
 
     .slide {
       height: 500px;
